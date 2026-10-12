@@ -1,0 +1,144 @@
+
+<!-- Kita menggunakan tabel HTML biasa, Excel akan otomatis membacanya -->
+<table border="1">
+    <tr>
+        <th>ID Pesanan</th>
+        <th>Waktu Pesan</th>
+        <th>Metode Pengambilan</th>
+        <th>Status Pesanan</th>
+        <th>Total Harga</th>
+    </tr>
+        <tr>
+        <td>21</td>
+        <td>2026-10-12 08:04:59</td>
+        <td>pickup</td>
+        <td>menunggu_konfirmasi</td>
+        <td>12000.00</td>
+    </tr>
+        <tr>
+        <td>20</td>
+        <td>2026-10-10 22:19:59</td>
+        <td>delivery</td>
+        <td>menunggu_konfirmasi</td>
+        <td>24000.00</td>
+    </tr>
+        <tr>
+        <td>19</td>
+        <td>2026-10-10 22:01:48</td>
+        <td>delivery</td>
+        <td>menunggu_konfirmasi</td>
+        <td>27000.00</td>
+    </tr>
+        <tr>
+        <td>18</td>
+        <td>2026-10-06 10:05:29</td>
+        <td>pickup</td>
+        <td>menunggu_konfirmasi</td>
+        <td>30000.00</td>
+    </tr>
+        <tr>
+        <td>17</td>
+        <td>2026-10-06 10:05:01</td>
+        <td>pickup</td>
+        <td>menunggu_konfirmasi</td>
+        <td>30000.00</td>
+    </tr>
+        <tr>
+        <td>16</td>
+        <td>2026-10-06 00:51:46</td>
+        <td>pickup</td>
+        <td>menunggu_konfirmasi</td>
+        <td>3000.00</td>
+    </tr>
+        <tr>
+        <td>15</td>
+        <td>2026-10-06 00:51:12</td>
+        <td>pickup</td>
+        <td>menunggu_konfirmasi</td>
+        <td>30000.00</td>
+    </tr>
+        <tr>
+        <td>14</td>
+        <td>2026-10-06 00:50:45</td>
+        <td>pickup</td>
+        <td>menunggu_konfirmasi</td>
+        <td>30000.00</td>
+    </tr>
+        <tr>
+        <td>13</td>
+        <td>2026-10-06 00:49:04</td>
+        <td>pickup</td>
+        <td>menunggu_konfirmasi</td>
+        <td>30000.00</td>
+    </tr>
+        <tr>
+        <td>12</td>
+        <td>2026-10-06 00:47:04</td>
+        <td>pickup</td>
+        <td>menunggu_konfirmasi</td>
+        <td>30000.00</td>
+    </tr>
+        <tr>
+        <td>11</td>
+        <td>2026-10-06 00:46:01</td>
+        <td>pickup</td>
+        <td>menunggu_konfirmasi</td>
+        <td>30000.00</td>
+    </tr>
+        <tr>
+        <td>10</td>
+        <td>2026-10-06 00:45:43</td>
+        <td>pickup</td>
+        <td>menunggu_konfirmasi</td>
+        <td>30000.00</td>
+    </tr>
+        <tr>
+        <td>9</td>
+        <td>2026-10-06 00:40:36</td>
+        <td>pickup</td>
+        <td>menunggu_konfirmasi</td>
+        <td>25000.00</td>
+    </tr>
+        <tr>
+        <td>8</td>
+        <td>2026-10-05 14:59:17</td>
+        <td>delivery</td>
+        <td>menunggu_konfirmasi</td>
+        <td>50000.00</td>
+    </tr>
+        <tr>
+        <td>7</td>
+        <td>2026-10-05 14:58:36</td>
+        <td>pickup</td>
+        <td>menunggu_konfirmasi</td>
+        <td>50000.00</td>
+    </tr>
+        <tr>
+        <td>6</td>
+        <td>2026-10-05 14:56:10</td>
+        <td>pickup</td>
+        <td>menunggu_konfirmasi</td>
+        <td>40000.00</td>
+    </tr>
+        <tr>
+        <td>5</td>
+        <td>2026-10-05 14:52:52</td>
+        <td>pickup</td>
+        <td>menunggu_konfirmasi</td>
+        <td>30000.00</td>
+    </tr>
+        <tr>
+        <td>4</td>
+        <td>2026-10-05 14:07:52</td>
+        <td>pickup</td>
+        <td>menunggu_konfirmasi</td>
+        <td>30000.00</td>
+    </tr>
+        <tr>
+        <td>3</td>
+        <td>2026-10-05 14:07:30</td>
+        <td>pickup</td>
+        <td>menunggu_konfirmasi</td>
+        <td>30000.00</td>
+    </tr>
+    </table>
